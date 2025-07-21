@@ -158,7 +158,7 @@ describe('props', () => {
           default: 1,
         },
       }
-
+      
       render(props) {
         return <div>{props.count}</div>
       }
@@ -177,7 +177,7 @@ describe('props', () => {
           default: 1,
         },
       }
-
+      
       render(props) {
         return <div>{props.count}</div>
       }
